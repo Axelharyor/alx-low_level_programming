@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * changing the value of the variable
+ *reset_to_98  - changing the value of the variable
  * that points to the argument to 98
  *@n: pointer variable
  */

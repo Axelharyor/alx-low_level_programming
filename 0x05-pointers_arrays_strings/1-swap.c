@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *swap the values of the pointed arguments
+ *swap_int - swaps the values of the pointed arguments
  *
  *@a: pointer argument 1
  *@b: pointer argument 2
